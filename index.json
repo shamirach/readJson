@@ -1,0 +1,24 @@
+{
+"destinations": [
+    {
+        "value": "Oceania and Australia",
+        "label": "Australia & South Pacific"
+    },
+    {
+        "value": "Australia",
+        "label": "Australia"
+    },
+    {
+        "value": "Brisbane",
+        "label": "Brisbane-Australia"
+    },
+    {
+        "value": "GoldCoast",
+        "label": "GoldCoast-Australia"
+    },
+    {
+        "value": "SunshineCoast",
+        "label": "SunshineCoast-Australia"
+    } 
+ ]
+}
